@@ -3,6 +3,7 @@
 
 This machine learning project predicts the category (genre) of apps on the Google Play Store based on various features such as ratings, reviews, installs, size, and price. The aim is to help developers and businesses understand how different attributes influence an app’s classification and discoverability.
 
+![Uploading image.png…]()
 
 
 🧾 Introduction:
